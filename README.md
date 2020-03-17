@@ -23,6 +23,8 @@ These install instructions have been test on Arch and Ubuntu linux. Other OSes s
 # development
 Use [4545vagrant](https://github.com/lakinwecker/4545vagrant) as development environment.
 
+Or use [docker-heltour](https://github.com/nathanj/docker-heltour) if you prefer docker.
+
 Ensure that your editor has an [EditorConfig plugin](https://editorconfig.org/#download) enabled.
 
 # create admin account
